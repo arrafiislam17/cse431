@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1hnI9ayHezScLvhv3_0T0yiHEk0yaCWC9jXpJ3sLFHyA/edit?usp=sharing
 
 Project title:
-A Cascaded Architecture for Extractive Summarization of Multimedia Content via Audio-to-Text Alignment
+A Cascaded Architecture for Extractive Summarization of Multimedia Content via Audio-to-Text Alignment.
 
 Group Number:
 25
