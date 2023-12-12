@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/8161885283cvbtzktwngvb#5c72c7
 
 Unlisted YouTube video:
-https://studio.youtube.com/video/4Kbcj5ZZw0E/edit
+https://www.youtube.com/watch?v=4Kbcj5ZZw0E&list=PLjnrXhG4Ujfkss3byuLGE8b8JKxoQm1-_&index=4&ab_channel=AR-RAFIISLAM
 
 Paper title:
 A Cascaded Architecture for ExtractiveSummarization of Multimedia Content via Audio-to-Text Alignment
